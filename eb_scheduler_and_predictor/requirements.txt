@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+amplpy
+gurobipy
+pyomo
+pymoo
+deap
+python-dotenv
